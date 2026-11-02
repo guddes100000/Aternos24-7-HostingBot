@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "YourAuthPassword"
+      "password": "soloplayz"
     },
     "anti-afk": {
       "enabled": true,
